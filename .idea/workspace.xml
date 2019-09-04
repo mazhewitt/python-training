@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36564d46-57f5-43ec-b673-74a91bd33973" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 1/Presentation/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Presentation/slide1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Presentation/slide3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Presentation/slide4.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Presentation/slide5.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Presentation/slide6.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Presentation/slide7.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Presentation/slide8.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 1/Presentation/slide9.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1/Day 1.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/Day 1.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1/Day1 Home Assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/Presentation/Day1 Home Assignment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/Presentation/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,8 +50,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day 1/Presentation/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="669">
-              <caret line="106" column="6" selection-start-line="106" selection-start-column="6" selection-end-line="106" selection-end-column="6" />
+            <state relative-caret-position="958">
+              <caret line="84" column="55" lean-forward="true" selection-start-line="84" selection-start-column="55" selection-end-line="84" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -218,7 +207,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1547" />
@@ -260,7 +249,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567606608332" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567606729172" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -291,16 +280,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567598376085</updated>
-      <workItem from="1567598379398" duration="8004000" />
+      <workItem from="1567598379398" duration="8403000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8004000" />
+    <option name="totallyTimeSpent" value="8403000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -444,8 +432,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 1/Presentation/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="669">
-          <caret line="106" column="6" selection-start-line="106" selection-start-column="6" selection-end-line="106" selection-end-column="6" />
+        <state relative-caret-position="958">
+          <caret line="84" column="55" lean-forward="true" selection-start-line="84" selection-start-column="55" selection-end-line="84" selection-end-column="55" />
         </state>
       </provider>
     </entry>
