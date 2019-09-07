@@ -10,3 +10,4 @@ Prepared by:
 . Pratik Loya (GPN: 43534270)
 . Extended by Mazda Hewitt
 
+[Day 1](https://github.ldn.swissbank.com/pages/UBSAgileDevCourse/CodeRed-python-course/Day%201/Presentation/#/)
