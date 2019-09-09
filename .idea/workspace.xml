@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36564d46-57f5-43ec-b673-74a91bd33973" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Day 2/Presentation/slide1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Presentation/slide1.md" afterDir="false" />
-    </list>
+    <list default="true" id="36564d46-57f5-43ec-b673-74a91bd33973" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,8 +100,8 @@
         <entry file="file://$PROJECT_DIR$/Day 2/Presentation/slide1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="5" selection-start-column="5" selection-end-column="5" />
+              <first_editor relative-caret-position="136">
+                <caret line="8" column="56" lean-forward="true" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
               </first_editor>
               <second_editor />
             </state>
@@ -297,12 +295,12 @@
       <updated>1567598376085</updated>
       <workItem from="1567598379398" duration="9602000" />
       <workItem from="1567780365786" duration="13054000" />
-      <workItem from="1568031820954" duration="224000" />
+      <workItem from="1568031820954" duration="256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22880000" />
+    <option name="totallyTimeSpent" value="22912000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="0" width="1280" height="1040" extended-state="0" />
@@ -558,8 +556,8 @@
     <entry file="file://$PROJECT_DIR$/Day 2/Presentation/slide1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="5" selection-start-column="5" selection-end-column="5" />
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="56" lean-forward="true" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
           </first_editor>
           <second_editor />
         </state>
