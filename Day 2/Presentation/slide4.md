@@ -1,7 +1,8 @@
-#Converting types
+# Converting types
 - Python is a loosely-type language
-    - Meaning, we do not need to define the data types of the variables which we use
-    - Implicit Type Casting:
+    - We do not need to define the data types of the variables which we use
+<P/>
+- Implicit Type Casting:
     - Similar data types can automatically fit into each other
     - Eg: Integer to Float or vice versa
 ```

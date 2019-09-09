@@ -1,4 +1,4 @@
-#Useful mathematical functions
+# Useful mathematical functions
 
 | Command name        | Description           |
 |---------------------|-----------------------|
@@ -13,14 +13,3 @@
 | **round** (value)        | nearest whole number  |
 | **sin** (value)          | sine, in radians      |
 | **sqrt** (value)         | square root           |
-
-| Constant  | Description  |
-|-----------|--------------|
-| **e**         | 2.7182818... |
-| **pi**        | 3.1415926... |
-
-To use many of these commands, you must write the following at the top of your Python program:
-```
-from math import *
-#"from", "import" are keywords, and "math" is the library to use; part of syntax
-```

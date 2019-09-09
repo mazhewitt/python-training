@@ -1,5 +1,5 @@
-#Python: Basic data types
-- Python has five standard data types −
+# Python: Basic data types
+- Python has five standard data types
     - Numbers
     - int
     - long
@@ -8,6 +8,7 @@
     - List
     - Tuple
     - Dictionary
+
 ```
 i_am_int = 10 #int, long (wait-for-the-difference)
 i_am_float = 10.2 #float
