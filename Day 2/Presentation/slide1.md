@@ -1,4 +1,4 @@
-# Varables
+# Variables
 - Variables are a named piece of memory that can store data (values).
     - ![fruit = apple](variables.PNG)<!-- .element: style="border:0; width:300px" -->
 - Usage:
