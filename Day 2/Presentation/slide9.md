@@ -1,4 +1,4 @@
-# Conditional Operators**
+# Conditional Operators
 
 | Operator | Definition       |
 |----------|------------------|
