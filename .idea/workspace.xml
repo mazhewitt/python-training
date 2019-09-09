@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36564d46-57f5-43ec-b673-74a91bd33973" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 2/Presentation/slide10.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Presentation/slide11.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Presentation/slide9.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/Presentation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Presentation/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/Presentation/slide1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Presentation/slide1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/Presentation/slide2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Presentation/slide2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/Presentation/slide3.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Presentation/slide3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/Presentation/slide4.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Presentation/slide4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/Presentation/slide5.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Presentation/slide5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/Presentation/slide6.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Presentation/slide6.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/Presentation/slide7.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Presentation/slide7.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/Presentation/slide8.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Presentation/slide8.md" afterDir="false" />
-    </list>
+    <list default="true" id="36564d46-57f5-43ec-b673-74a91bd33973" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +13,7 @@
     <session id="185103953">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.9" value="1" />
           <entry key="project.opened" value="2" />
@@ -155,8 +142,8 @@
         <entry file="file://$PROJECT_DIR$/Day 2/Presentation/slide10.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+              <first_editor relative-caret-position="136">
+                <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -281,7 +268,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568016120231" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568016123576" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Preso/Presentation1/slide3.html" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -317,16 +304,15 @@
       <option name="presentableId" value="Default" />
       <updated>1567598376085</updated>
       <workItem from="1567598379398" duration="9602000" />
-      <workItem from="1567780365786" duration="12451000" />
+      <workItem from="1567780365786" duration="13054000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22053000" />
+    <option name="totallyTimeSpent" value="22656000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11844197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -576,8 +562,8 @@
     <entry file="file://$PROJECT_DIR$/Day 2/Presentation/slide10.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+          <first_editor relative-caret-position="136">
+            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           </first_editor>
           <second_editor />
         </state>
