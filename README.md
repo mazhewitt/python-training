@@ -11,3 +11,4 @@ Prepared by:
 . Extended by Mazda Hewitt
 
 [Day 1](https://github.ldn.swissbank.com/pages/UBSAgileDevCourse/CodeRed-python-course/Day%201/Presentation/#/)
+[Day 2](https://github.ldn.swissbank.com/pages/UBSAgileDevCourse/CodeRed-python-course/Day%202/Presentation/#/)
