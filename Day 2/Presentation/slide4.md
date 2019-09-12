@@ -1,10 +1,11 @@
 # Converting types
-- Python is a loosely-type language
+- Python is a loosely-typed language
     - We do not need to define the data types of the variables which we use
 <P/>
 - Implicit Type Casting:
     - Similar data types can automatically fit into each other
     - Eg: Integer to Float or vice versa
+    
 ```
     i_am_int = 10
     i_am_float = 10.1
