@@ -1,5 +1,3 @@
-# Code Red Python Course
-
 Prepared by:
 - Prathmesh Palande (GPN: 43534275)
 - Pratik Loya (GPN: 43534270)
