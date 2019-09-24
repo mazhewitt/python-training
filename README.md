@@ -4,6 +4,7 @@ Prepared by:
 - Extended by Mazda Hewitt
 
 **[Preparation](PREPARATION.md)**
+Find some instructions to get started with the development environment used during the course.
 
 **[Day 1: What is programming?](https://github.ldn.swissbank.com/pages/UBSAgileDevCourse/CodeRed-python-course/Day%201/Presentation/#/)** 
 - Programming concepts and a bit of history of Python.
