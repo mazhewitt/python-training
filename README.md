@@ -3,6 +3,7 @@ Prepared by:
 - Pratik Loya (GPN: 43534270)
 - Extended by Mazda Hewitt
 
+**[Preparation](PREPARATION.md)**
 
 **[Day 1: What is programming?](https://github.ldn.swissbank.com/pages/UBSAgileDevCourse/CodeRed-python-course/Day%201/Presentation/#/)** 
 - Programming concepts and a bit of history of Python.
