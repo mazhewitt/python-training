@@ -1,12 +1,15 @@
 **Preparation for CodeRed Python Course**
+
 For the course we will use an online IDE named repl.it. It is a simple but powerful development environment and well suited to get started with programming. You can setup a project instantly and it supports a wide range of programming languages.
 
 **Get started**
+
 The only thing you have to is to open https://repl.it in your favorite browser. If you would like to keep your projects for later reference or to continue coding after the course it is recommended to create an account.
 
 ![Home Page][home]
 
 **Verify everything works**
+
 Create your first project by clicking the *new repl* button on the top right corner and select Python as your programming language.
 
 ![Select your language][select-lang]
