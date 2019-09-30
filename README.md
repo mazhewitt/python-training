@@ -14,4 +14,6 @@ Prepared by:
 
 [Day 6 Functions](https://github.ldn.swissbank.com/pages/UBSAgileDevCourse/CodeRed-python-course/Day%206/Presentation/Functions/#/)  
 [Day 6 File Handling](https://github.ldn.swissbank.com/pages/UBSAgileDevCourse/CodeRed-python-course/Day%206/Presentation/FileHandling/#/)  
-[Day 6 FileHandlingOperations](https://github.ldn.swissbank.com/pages/UBSAgileDevCourse/CodeRed-python-course/Day%206/Presentation/FileHandlingOperations/#/)  
+[Day 6 File Handling Operations](https://github.ldn.swissbank.com/pages/UBSAgileDevCourse/CodeRed-python-course/Day%206/Presentation/FileHandlingOperations/#/)
+[Day 7 Exception Handling](https://github.ldn.swissbank.com/pages/UBSAgileDevCourse/CodeRed-python-course/Day%207/Presentation/ExceptionHandling/#/)  
+[Day 7 Introduction To Machine Learning](https://github.ldn.swissbank.com/pages/UBSAgileDevCourse/CodeRed-python-course/Day%207/Presentation/IntroductionToMachineLearning/#/)    
