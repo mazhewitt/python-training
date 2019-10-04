@@ -19,6 +19,6 @@ Type `print("hello world")` into the editor and hit the run button you should se
 
 ![Hello world][hello-world]
 
-[home]: https://github.ldn.swissbank.com/UBSAgileDevCourse/CodeRed-python-course/blob/preparation-page/preparation/1.png 
-[hello-world]: https://github.ldn.swissbank.com/UBSAgileDevCourse/CodeRed-python-course/blob/preparation-page/preparation/2.png
-[select-lang]: https://github.ldn.swissbank.com/UBSAgileDevCourse/CodeRed-python-course/blob/preparation-page/preparation/3.png
+[home]: ./1.png 
+[hello-world]: ./2.png
+[select-lang]: ./3.png
