@@ -1,6 +1,6 @@
 Prepared by:
-- Prathmesh Palande (GPN: 43534275)
-- Pratik Loya (GPN: 43534270)
+- Prathmesh Palande 
+- Pratik Loya 
 - Extended by Mazda Hewitt
 
 **[Preparation](preparation/PREPARATION.md)**
