@@ -1,0 +1,50 @@
+    @font-face{
+        font-family:"FrutigerW04-45Light";
+        src:url("Fonts/FrutigerW04-45Light.eot?#iefix");
+        src:url("Fonts/FrutigerW04-45Light.eot?#iefix") format("eot"),url("Fonts/FrutigerW04-45Light.woff2") format("woff2"),url("Fonts/FrutigerW04-45Light.woff") format("woff"),url("Fonts/FrutigerW04-45Light.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerW04-55Roman";
+        src:url("Fonts/FrutigerW04-55Roman.eot?#iefix");
+        src:url("Fonts/FrutigerW04-55Roman.eot?#iefix") format("eot"),url("Fonts/FrutigerW04-55Roman.woff2") format("woff2"),url("Fonts/FrutigerW04-55Roman.woff") format("woff"),url("Fonts/FrutigerW04-55Roman.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerW04-55RomanItalic";
+        src:url("Fonts/FrutigerW04-55RomanItalic.eot?#iefix");
+        src:url("Fonts/FrutigerW04-55RomanItalic.eot?#iefix") format("eot"),url("Fonts/FrutigerW04-55RomanItalic.woff2") format("woff2"),url("Fonts/FrutigerW04-55RomanItalic.woff") format("woff"),url("Fonts/FrutigerW04-55RomanItalic.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerW04-45LightBold";
+        src:url("Fonts/FrutigerW04-45LightBold.eot?#iefix");
+        src:url("Fonts/FrutigerW04-45LightBold.eot?#iefix") format("eot"),url("Fonts/FrutigerW04-45LightBold.woff2") format("woff2"),url("Fonts/FrutigerW04-45LightBold.woff") format("woff"),url("Fonts/FrutigerW04-45LightBold.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerW04-55RomanBold";
+        src:url("Fonts/FrutigerW04-55RomanBold.eot?#iefix");
+        src:url("Fonts/FrutigerW04-55RomanBold.eot?#iefix") format("eot"),url("Fonts/FrutigerW04-55RomanBold.woff2") format("woff2"),url("Fonts/FrutigerW04-55RomanBold.woff") format("woff"),url("Fonts/FrutigerW04-55RomanBold.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerNeueLTW02-Medium";
+        src:url("Fonts/FrutigerNeueLTW02-Medium.eot?#iefix");
+        src:url("Fonts/FrutigerNeueLTW02-Medium.eot?#iefix") format("eot"),url("Fonts/FrutigerNeueLTW02-Medium.woff2") format("woff2"),url("Fonts/FrutigerNeueLTW02-Medium.woff") format("woff"),url("Fonts/FrutigerNeueLTW02-Medium.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerNeueLTW02-Bold";
+        src:url("Fonts/FrutigerNeueLTW02-Bold.eot?#iefix");
+        src:url("Fonts/FrutigerNeueLTW02-Bold.eot?#iefix") format("eot"),url("Fonts/FrutigerNeueLTW02-Bold.woff2") format("woff2"),url("Fonts/FrutigerNeueLTW02-Bold.woff") format("woff"),url("Fonts/FrutigerNeueLTW02-Bold.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerNeueLTW02-Light";
+        src:url("Fonts/FrutigerNeueLTW02-Light.eot?#iefix");
+        src:url("Fonts/FrutigerNeueLTW02-Light.eot?#iefix") format("eot"),url("Fonts/FrutigerNeueLTW02-Light.woff2") format("woff2"),url("Fonts/FrutigerNeueLTW02-Light.woff") format("woff"),url("Fonts/FrutigerNeueLTW02-Light.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerNeueLTW02-Regular";
+        src:url("Fonts/FrutigerNeueLTW02-Regular.eot?#iefix");
+        src:url("Fonts/FrutigerNeueLTW02-Regular.eot?#iefix") format("eot"),url("Fonts/FrutigerNeueLTW02-Regular.woff2") format("woff2"),url("Fonts/FrutigerNeueLTW02-Regular.woff") format("woff"),url("Fonts/FrutigerNeueLTW02-Regular.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerW04-45LightItalic";
+        src:url("Fonts/FrutigerW04-45LightItalic.eot?#iefix");
+        src:url("Fonts/FrutigerW04-45LightItalic.eot?#iefix") format("eot"),url("Fonts/FrutigerW04-45LightItalic.woff2") format("woff2"),url("Fonts/FrutigerW04-45LightItalic.woff") format("woff"),url("Fonts/FrutigerW04-45LightItalic.ttf") format("truetype");
+    }

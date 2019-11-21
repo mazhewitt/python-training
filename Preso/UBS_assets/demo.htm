@@ -1,0 +1,182 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Webfonts Demo</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <style type="text/css">
+	    body, textarea { font-family:Arial, Sans-Serif; line-height:1.6em; font-size:13px; }
+	    h1 { font-size:3em; }
+	    h2, h3 { color:#999; }
+	    .content { width:780px; margin: 20px auto 40px; }
+	    .demo { font-weight:bold; font-style:normal; color: #999 }
+	    .fontdisplay {font-size:2em;line-height:150%;margin: 10px 40px 0px 0px;}
+	    .guidelines { color:#333; }
+	    pre { padding:0 0 0 20px; }
+	    hr { border:0; border-bottom:1px solid #537094; margin:20px 0; }
+	    .link { color: #537094;text-decoration:none; font-weight:bold;}
+	    .uc {text-transform:uppercase}
+		ol{list-style: none;margin-left: 90;}
+		li{counter-increment: custom;}
+		ol li:before{content: counter(custom) " - ";}
+		ol li:first-child { counter-reset: custom; }
+	    {CSSSelectorsList}
+    </style>
+    <style type="text/css">
+    @font-face{
+        font-family:"FrutigerW04-45Light";
+        src:url("Fonts/FrutigerW04-45Light.eot?#iefix");
+        src:url("Fonts/FrutigerW04-45Light.eot?#iefix") format("eot"),url("Fonts/FrutigerW04-45Light.woff2") format("woff2"),url("Fonts/FrutigerW04-45Light.woff") format("woff"),url("Fonts/FrutigerW04-45Light.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerW04-55Roman";
+        src:url("Fonts/FrutigerW04-55Roman.eot?#iefix");
+        src:url("Fonts/FrutigerW04-55Roman.eot?#iefix") format("eot"),url("Fonts/FrutigerW04-55Roman.woff2") format("woff2"),url("Fonts/FrutigerW04-55Roman.woff") format("woff"),url("Fonts/FrutigerW04-55Roman.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerW04-55RomanItalic";
+        src:url("Fonts/FrutigerW04-55RomanItalic.eot?#iefix");
+        src:url("Fonts/FrutigerW04-55RomanItalic.eot?#iefix") format("eot"),url("Fonts/FrutigerW04-55RomanItalic.woff2") format("woff2"),url("Fonts/FrutigerW04-55RomanItalic.woff") format("woff"),url("Fonts/FrutigerW04-55RomanItalic.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerW04-45LightBold";
+        src:url("Fonts/FrutigerW04-45LightBold.eot?#iefix");
+        src:url("Fonts/FrutigerW04-45LightBold.eot?#iefix") format("eot"),url("Fonts/FrutigerW04-45LightBold.woff2") format("woff2"),url("Fonts/FrutigerW04-45LightBold.woff") format("woff"),url("Fonts/FrutigerW04-45LightBold.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerW04-55RomanBold";
+        src:url("Fonts/FrutigerW04-55RomanBold.eot?#iefix");
+        src:url("Fonts/FrutigerW04-55RomanBold.eot?#iefix") format("eot"),url("Fonts/FrutigerW04-55RomanBold.woff2") format("woff2"),url("Fonts/FrutigerW04-55RomanBold.woff") format("woff"),url("Fonts/FrutigerW04-55RomanBold.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerNeueLTW02-Medium";
+        src:url("Fonts/FrutigerNeueLTW02-Medium.eot?#iefix");
+        src:url("Fonts/FrutigerNeueLTW02-Medium.eot?#iefix") format("eot"),url("Fonts/FrutigerNeueLTW02-Medium.woff2") format("woff2"),url("Fonts/FrutigerNeueLTW02-Medium.woff") format("woff"),url("Fonts/FrutigerNeueLTW02-Medium.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerNeueLTW02-Bold";
+        src:url("Fonts/FrutigerNeueLTW02-Bold.eot?#iefix");
+        src:url("Fonts/FrutigerNeueLTW02-Bold.eot?#iefix") format("eot"),url("Fonts/FrutigerNeueLTW02-Bold.woff2") format("woff2"),url("Fonts/FrutigerNeueLTW02-Bold.woff") format("woff"),url("Fonts/FrutigerNeueLTW02-Bold.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerNeueLTW02-Light";
+        src:url("Fonts/FrutigerNeueLTW02-Light.eot?#iefix");
+        src:url("Fonts/FrutigerNeueLTW02-Light.eot?#iefix") format("eot"),url("Fonts/FrutigerNeueLTW02-Light.woff2") format("woff2"),url("Fonts/FrutigerNeueLTW02-Light.woff") format("woff"),url("Fonts/FrutigerNeueLTW02-Light.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerNeueLTW02-Regular";
+        src:url("Fonts/FrutigerNeueLTW02-Regular.eot?#iefix");
+        src:url("Fonts/FrutigerNeueLTW02-Regular.eot?#iefix") format("eot"),url("Fonts/FrutigerNeueLTW02-Regular.woff2") format("woff2"),url("Fonts/FrutigerNeueLTW02-Regular.woff") format("woff"),url("Fonts/FrutigerNeueLTW02-Regular.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerW04-45LightItalic";
+        src:url("Fonts/FrutigerW04-45LightItalic.eot?#iefix");
+        src:url("Fonts/FrutigerW04-45LightItalic.eot?#iefix") format("eot"),url("Fonts/FrutigerW04-45LightItalic.woff2") format("woff2"),url("Fonts/FrutigerW04-45LightItalic.woff") format("woff"),url("Fonts/FrutigerW04-45LightItalic.ttf") format("truetype");
+    }
+
+    </style>
+</head>
+<body>
+<header>
+         <a href="http://www.Monotype.com"><img alt="" height="39" width="158" style="margin-left: 20px;" src="data:image/png;base64,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"></a>
+    </header>
+
+
+    <div class="content">
+        <h1 class="demo">Monotype Web fonts</h1>
+        <p style="margin-top:-10px; font-size:1.5em;color:#666"><b>@font-face implementation instructions</b></p>
+        <hr />
+        <p class="uc">The fonts contained in this kit are:</p>
+        <div class="fontdisplay">
+<div style="font-family:'FrutigerW04-45Light';"> FrutigerW04-45Light </div>
+<div style="font-family:'FrutigerW04-55Roman';"> FrutigerW04-55Roman </div>
+<div style="font-family:'FrutigerW04-55RomanItalic';"> FrutigerW04-55RomanItalic </div>
+<div style="font-family:'FrutigerW04-45LightBold';"> FrutigerW04-45LightBold </div>
+<div style="font-family:'FrutigerW04-55RomanBold';"> FrutigerW04-55RomanBold </div>
+<div style="font-family:'FrutigerNeueLTW02-Medium';"> FrutigerNeueLTW02-Medium </div>
+<div style="font-family:'FrutigerNeueLTW02-Bold';"> FrutigerNeueLTW02-Bold </div>
+<div style="font-family:'FrutigerNeueLTW02-Light';"> FrutigerNeueLTW02-Light </div>
+<div style="font-family:'FrutigerNeueLTW02-Regular';"> FrutigerNeueLTW02-Regular </div>
+<div style="font-family:'FrutigerW04-45LightItalic';"> FrutigerW04-45LightItalic </div>
+
+        </div>
+        <hr />
+      
+        <div class="guidelines">
+            <h2>CSS Implementation Guidelines</h2>
+            <p>You and any third party web font hosting service are responsible for ensuring that the font software in the self-hosting kit, in its original format, can only be used on the Web Sites for which the self-hosting kit was downloaded and cannot be used or referenced by any other web site. This includes, but is not limited to installing adequate technical protection measures that restrict the use and/or access to the font software, for instance by utilizing JavaScript or access control mechanism for cross-origin resource sharing and protecting against use on web sites other than the Web Sites for which the self-hosting kit was downloaded by restricting domain access only to such Web Sites. In the event this Agreement terminates for any reason, the font software included with the self-hosting kit must be deleted from the server and all copies must be destroyed or returned to Monotype Imaging.</p>
+			<p> You can identify font format based on file ending:</p>
+            <ol>
+                <li> TrueType (ttf)</li>
+                <li> Embedded OpenType (eot)</li>
+                <li> Web Open Font Format (woff)</li>
+				<li> Web Open Font Format version 2 (woff2)</li>
+                
+            </ol>
+            <p class="uc" style="margin: 20px 0px -20px;"><b>Copy and paste following code in head section of the page</b></p>
+            <hr />
+            <textarea style="width:830px; height:350px; border:1 #fff solid; background-color:#fcfcfc;"><style type="text/css">
+    @font-face{
+        font-family:"FrutigerW04-45Light";
+        src:url("Fonts/FrutigerW04-45Light.eot?#iefix");
+        src:url("Fonts/FrutigerW04-45Light.eot?#iefix") format("eot"),url("Fonts/FrutigerW04-45Light.woff2") format("woff2"),url("Fonts/FrutigerW04-45Light.woff") format("woff"),url("Fonts/FrutigerW04-45Light.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerW04-55Roman";
+        src:url("Fonts/FrutigerW04-55Roman.eot?#iefix");
+        src:url("Fonts/FrutigerW04-55Roman.eot?#iefix") format("eot"),url("Fonts/FrutigerW04-55Roman.woff2") format("woff2"),url("Fonts/FrutigerW04-55Roman.woff") format("woff"),url("Fonts/FrutigerW04-55Roman.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerW04-55RomanItalic";
+        src:url("Fonts/FrutigerW04-55RomanItalic.eot?#iefix");
+        src:url("Fonts/FrutigerW04-55RomanItalic.eot?#iefix") format("eot"),url("Fonts/FrutigerW04-55RomanItalic.woff2") format("woff2"),url("Fonts/FrutigerW04-55RomanItalic.woff") format("woff"),url("Fonts/FrutigerW04-55RomanItalic.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerW04-45LightBold";
+        src:url("Fonts/FrutigerW04-45LightBold.eot?#iefix");
+        src:url("Fonts/FrutigerW04-45LightBold.eot?#iefix") format("eot"),url("Fonts/FrutigerW04-45LightBold.woff2") format("woff2"),url("Fonts/FrutigerW04-45LightBold.woff") format("woff"),url("Fonts/FrutigerW04-45LightBold.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerW04-55RomanBold";
+        src:url("Fonts/FrutigerW04-55RomanBold.eot?#iefix");
+        src:url("Fonts/FrutigerW04-55RomanBold.eot?#iefix") format("eot"),url("Fonts/FrutigerW04-55RomanBold.woff2") format("woff2"),url("Fonts/FrutigerW04-55RomanBold.woff") format("woff"),url("Fonts/FrutigerW04-55RomanBold.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerNeueLTW02-Medium";
+        src:url("Fonts/FrutigerNeueLTW02-Medium.eot?#iefix");
+        src:url("Fonts/FrutigerNeueLTW02-Medium.eot?#iefix") format("eot"),url("Fonts/FrutigerNeueLTW02-Medium.woff2") format("woff2"),url("Fonts/FrutigerNeueLTW02-Medium.woff") format("woff"),url("Fonts/FrutigerNeueLTW02-Medium.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerNeueLTW02-Bold";
+        src:url("Fonts/FrutigerNeueLTW02-Bold.eot?#iefix");
+        src:url("Fonts/FrutigerNeueLTW02-Bold.eot?#iefix") format("eot"),url("Fonts/FrutigerNeueLTW02-Bold.woff2") format("woff2"),url("Fonts/FrutigerNeueLTW02-Bold.woff") format("woff"),url("Fonts/FrutigerNeueLTW02-Bold.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerNeueLTW02-Light";
+        src:url("Fonts/FrutigerNeueLTW02-Light.eot?#iefix");
+        src:url("Fonts/FrutigerNeueLTW02-Light.eot?#iefix") format("eot"),url("Fonts/FrutigerNeueLTW02-Light.woff2") format("woff2"),url("Fonts/FrutigerNeueLTW02-Light.woff") format("woff"),url("Fonts/FrutigerNeueLTW02-Light.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerNeueLTW02-Regular";
+        src:url("Fonts/FrutigerNeueLTW02-Regular.eot?#iefix");
+        src:url("Fonts/FrutigerNeueLTW02-Regular.eot?#iefix") format("eot"),url("Fonts/FrutigerNeueLTW02-Regular.woff2") format("woff2"),url("Fonts/FrutigerNeueLTW02-Regular.woff") format("woff"),url("Fonts/FrutigerNeueLTW02-Regular.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"FrutigerW04-45LightItalic";
+        src:url("Fonts/FrutigerW04-45LightItalic.eot?#iefix");
+        src:url("Fonts/FrutigerW04-45LightItalic.eot?#iefix") format("eot"),url("Fonts/FrutigerW04-45LightItalic.woff2") format("woff2"),url("Fonts/FrutigerW04-45LightItalic.woff") format("woff"),url("Fonts/FrutigerW04-45LightItalic.ttf") format("truetype");
+    }
+
+</style>
+
+</textarea>
+            <h3>Licensing information should be included within the CSS</h3>
+<pre>/*
+This CSS resource incorporates links to font software which is the valuable copyrighted
+property of Monotype Imaging and/or its suppliers. You may not attempt to copy, install,
+redistribute, convert, modify or reverse engineer this font software. Please contact Monotype
+Imaging with any questions regarding Web Fonts:  http://www.monotype.com/
+*/</pre>
+        </div>
+    </div>
+</body>
+</html>

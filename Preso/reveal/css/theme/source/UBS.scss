@@ -1,0 +1,158 @@
+/**
+ * White theme for reveal.js. This is the opposite of the 'black' theme.
+ *
+ * By Hakim El Hattab, http://hakim.se
+ */
+
+
+// Default mixins and settings -----------------
+@import "../template/mixins";
+@import "../template/settings";
+// ---------------------------------------------
+
+
+// Include theme-specific fonts
+@import url(../../../UBS_assets/UBSFonts.css);
+
+
+// Override theme settings (see ../template/settings.scss)
+$backgroundColor: #fff;
+
+$mainColor: #222;
+$headingColor: #222;
+
+$mainFontSize: 24px;
+$mainFont: "FrutigerW04-55Roman", sans-serif;
+$headingFont: "FrutigerW04-45Light", sans-serif;
+$headingTextShadow: none;
+$headingLetterSpacing: normal;
+$headingTextTransform: none;
+$headingFontWeight: 400;
+$linkColor: #2a76dd;
+$linkColorHover: lighten( $linkColor, 15% );
+$selectionBackgroundColor: lighten( $linkColor, 25% );
+
+$heading1Size: 2.0em;
+$heading2Size: 1.0em;
+$heading3Size: 1.0em;
+$heading4Size: 1.0em;
+
+
+
+.reveal .slides {
+	text-align: left;
+}
+
+.reveal h1 {border-bottom: 2px solid black;}
+.reveal h2 {font-family: "FrutigerNeueLTW02-Bold", sans-serif;}
+
+section.has-dark-background {
+	&, h2, h3, h4, h5, h6 {
+		color: #fff;
+	}
+}
+
+.slides {
+	background-image: url("../../../UBS_assets/ubs_semibold_rgb.png");
+	background-repeat: no-repeat;
+	background-position: 0 90%;
+	background-size: 100px;
+}
+.reveal ul {
+	 list-style-type: none; /* Remove default bullets */
+ }
+
+.reveal ul > li::before {content: "•"; color: red;
+	display: inline-block; width: 1em;
+	margin-left: -1em;
+}
+
+.reveal li li::before {content: "-"; color: red;
+	display: inline-block; width: 1em;
+	margin-left: -1em}
+
+// Theme template ------------------------------
+@import "../template/theme";
+// ---------------------------------------------
+
+.ubs-classification{
+	font-family: "Arial", sans-serif;
+	font-size: 12pt;
+	position:absolute;
+	top:10%;
+	right:2%;
+}
+
+.ubs-presentation-title{
+	font-family:  "FrutigerW04-45Light", sans-serif;
+	position:absolute;
+	font-size: 40pt;
+	top:200px;
+}
+
+.ubs-presentation-sub-title{
+	font-family:  "FrutigerW04-45Light", sans-serif;
+	position:absolute;
+	font-size: 28pt;
+	top:285px;
+}
+
+.ubs-author{
+	font-family:  "FrutigerW04-55Roman", sans-serif;
+	position:absolute;
+	font-size: 18pt;
+	top:380px;
+}
+
+.ubs-date{
+	font-family:  "FrutigerW04-55Roman", sans-serif;
+	font-size: 16pt;
+	height: 200px;
+	width: 200px;
+	background-color: white;
+	position:absolute;
+	top: 450px;
+	left: 0;
+	border: none;
+	padding-top: 150px;
+}
+
+.ubs-logo{
+	background-image: url("../../../UBS_assets/ubs_semibold_rgb.png");
+	background-repeat: no-repeat;
+	background-size: 100px;
+	height: 200px;
+	width: 200px;
+}
+
+.ubs-keys{
+	background-image: url("../../../UBS_assets/grey-keys.jpg");
+	background-repeat: no-repeat;
+	height: 300px;
+	width: 300px;
+	background-size: 100%;
+	position:absolute;
+	top: 350px;
+	right: 0px;
+}
+
+.ubs-column-layout{
+	display:flex;
+}
+.ubs-30_percent_column{
+	flex: 30%;
+	padding-right: 10px;
+}
+.ubs-70_percent_column{
+	 flex: 70%;
+	padding-right: 10px;
+ }
+.ubs-50_percent_column{
+	flex:50%;
+	padding-right: 10px;
+}
+.ubs-red-quote{
+	font-family:  "FrutigerW04-55RomanItalic", sans-serif;
+	font-size: 16pt;
+	color:rgb(230,0,0)
+}
