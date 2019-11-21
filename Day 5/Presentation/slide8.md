@@ -8,10 +8,3 @@ for rooms_to_hoover in range(5):
 - Python syntax: **for** keyword, a variable name, **in** keyword, call to the **range()** method with up to three integers passed to it, colon, indented block of code starting from next line.
 - *range(x, [y, z]) returns a list, or similar valued data: Used to generate data for the loop
 ![FileModes](Picture2.jpg)<!-- .element: style="border:0; width:200px; margin-top:20px; margin-right:200px; float:right";  -->
-
-
-
-
-
-
-
