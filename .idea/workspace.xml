@@ -2,6 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36564d46-57f5-43ec-b673-74a91bd33973" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Presentation/Day5/Picture1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Presentation/Picture1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Presentation/Day5/Picture2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Presentation/Picture2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Presentation/Day5/Picture3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Presentation/Picture3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Presentation/Day5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Presentation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Presentation/Day5/slide1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Presentation/slide1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Presentation/Day5/slide2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Presentation/slide2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Presentation/Day5/slide3.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Presentation/slide3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Presentation/Day5/slide4.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Presentation/slide4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Presentation/Day5/slide5.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Presentation/slide5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Presentation/Day5/slide6.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Presentation/slide6.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Presentation/Day5/slide7.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Presentation/slide7.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Presentation/Day5/slide8.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Presentation/slide8.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Presentation/Day5/slide9.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Presentation/slide9.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 6/Presentation/FileHandling/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day 6/Presentation/FileHandling/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 6/Presentation/FileHandlingOperations/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day 6/Presentation/FileHandlingOperations/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 6/Presentation/Functions/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day 6/Presentation/Functions/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,15 +35,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 3/Presentation/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="75" selection-start-line="28" selection-start-column="75" selection-end-line="28" selection-end-column="75" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 1/Presentation/slide1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -38,12 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Preso/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 6/Presentation/FileHandling/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="9" column="47" lean-forward="true" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -51,6 +58,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Preso/Presentation1/Layout.png">
           <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 6/Presentation/FileHandlingOperations/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2217">
+              <caret line="134" column="34" selection-start-line="134" selection-start-column="34" selection-end-line="134" selection-end-column="34" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -62,32 +78,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 6/Presentation/Functions/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1971">
+              <caret line="116" column="34" selection-start-line="116" selection-start-column="34" selection-end-line="116" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="578">
-                <caret line="34" column="64" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
+              <first_editor relative-caret-position="731">
+                <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 6/Presentation/FileHandling/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 5/Presentation/Day5/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -102,10 +109,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 1/Presentation/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="105" column="41" selection-start-line="105" selection-start-column="41" selection-end-line="105" selection-end-column="41" />
+        <entry file="file://$PROJECT_DIR$/Day 4/Presentation/slide1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 3/Presentation/slide1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -123,13 +141,15 @@
     <findStrings>
       <find>https://github.ldn.swissbank.com/pages/hewitma/</find>
       <find>hewitma</find>
-      <find>https://github.ldn.swissbank.com/pages/hewitma</find>
       <find>classification</find>
+      <find>https://github.ldn.swissbank.com/pages/hewitma</find>
+      <find>../../Preso</find>
     </findStrings>
     <replaceStrings>
       <replace>../../</replace>
-      <replace>../..</replace>
       <replace>mazhewitt</replace>
+      <replace>../..</replace>
+      <replace>../../../Preso</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -163,9 +183,6 @@
         <option value="$PROJECT_DIR$/Day 2/Presentation/slide4.md" />
         <option value="$PROJECT_DIR$/Day 1/Presentation/index.html" />
         <option value="$PROJECT_DIR$/Day 2/Presentation/index.html" />
-        <option value="$PROJECT_DIR$/Day 6/Presentation/FileHandling/index.html" />
-        <option value="$PROJECT_DIR$/Day 6/Presentation/FileHandlingOperations/index.html" />
-        <option value="$PROJECT_DIR$/Day 6/Presentation/Functions/index.html" />
         <option value="$PROJECT_DIR$/Day 7/Presentation/ExceptionHandling/index.html" />
         <option value="$PROJECT_DIR$/Day 7/Presentation/IntroductionToMachineLearning/index.html" />
         <option value="$PROJECT_DIR$/Day 5/Presentation/Day5/index.html" />
@@ -173,6 +190,9 @@
         <option value="$PROJECT_DIR$/Day 3/Presentation/index.html" />
         <option value="$PROJECT_DIR$/Preso/Presentation1/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Day 6/Presentation/Functions/index.html" />
+        <option value="$PROJECT_DIR$/Day 6/Presentation/FileHandlingOperations/index.html" />
+        <option value="$PROJECT_DIR$/Day 6/Presentation/FileHandling/index.html" />
       </list>
     </option>
   </component>
@@ -195,6 +215,82 @@
             <path>
               <item name="CodeRed-python-course" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodeRed-python-course" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeRed-python-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeRed-python-course" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeRed-python-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeRed-python-course" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 3" type="462c0819:PsiDirectoryNode" />
+              <item name="Presentation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeRed-python-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeRed-python-course" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeRed-python-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeRed-python-course" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 4" type="462c0819:PsiDirectoryNode" />
+              <item name="Presentation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeRed-python-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeRed-python-course" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeRed-python-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeRed-python-course" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 5" type="462c0819:PsiDirectoryNode" />
+              <item name="Presentation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeRed-python-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeRed-python-course" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeRed-python-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeRed-python-course" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 6" type="462c0819:PsiDirectoryNode" />
+              <item name="Presentation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeRed-python-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeRed-python-course" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 6" type="462c0819:PsiDirectoryNode" />
+              <item name="Presentation" type="462c0819:PsiDirectoryNode" />
+              <item name="FileHandling" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeRed-python-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeRed-python-course" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 6" type="462c0819:PsiDirectoryNode" />
+              <item name="Presentation" type="462c0819:PsiDirectoryNode" />
+              <item name="FileHandlingOperations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeRed-python-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeRed-python-course" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 6" type="462c0819:PsiDirectoryNode" />
+              <item name="Presentation" type="462c0819:PsiDirectoryNode" />
+              <item name="Functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeRed-python-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeRed-python-course" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeRed-python-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeRed-python-course" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 7" type="462c0819:PsiDirectoryNode" />
+              <item name="Presentation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CodeRed-python-course" type="b2602c69:ProjectViewProjectNode" />
@@ -229,14 +325,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\UBS\Dev\Projects\CodeRed-python-course\Day 5\Presentation" />
+      <recent name="C:\UBS\Dev\Projects\CodeRed-python-course\Day 1\Presentation" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\UBS\Dev\Projects\CodeRed-python-course\Day 2\Presentation" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\UBS\Dev\Projects\CodeRed-python-course\Day 1\Presentation" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -269,7 +366,7 @@
       <workItem from="1573636580011" duration="854000" />
       <workItem from="1573641421234" duration="1192000" />
       <workItem from="1573825242293" duration="120000" />
-      <workItem from="1574340103102" duration="1626000" />
+      <workItem from="1574340103102" duration="3260000" />
     </task>
     <task id="LOCAL-00001" summary="Added curriculum">
       <created>1568386796531</created>
@@ -282,7 +379,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31027000" />
+    <option name="totallyTimeSpent" value="32661000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -532,20 +629,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 6/Presentation/FileHandlingOperations/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="52" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 6/Presentation/Functions/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 7/Presentation/ExceptionHandling/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
@@ -560,17 +643,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 5/Presentation/Day5/index.html">
+    <entry file="file://$PROJECT_DIR$/Day 5/Presentation/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 4/Presentation/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="642">
-          <caret line="131" column="44" selection-start-line="131" selection-start-column="13" selection-end-line="131" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -581,35 +657,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 6/Presentation/FileHandling/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 3/Presentation/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="75" selection-start-line="28" selection-start-column="75" selection-end-line="28" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 1/Presentation/slide1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="88" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Preso/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -623,13 +674,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day 4/Presentation/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="131" column="44" selection-start-line="131" selection-start-column="13" selection-end-line="131" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 4/Presentation/slide1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 3/Presentation/slide1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Preso/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 1/Presentation/slide1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="88" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="578">
-            <caret line="34" column="64" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
+          <first_editor relative-caret-position="731">
+            <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 6/Presentation/Functions/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1971">
+          <caret line="116" column="34" selection-start-line="116" selection-start-column="34" selection-end-line="116" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 6/Presentation/FileHandlingOperations/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2217">
+          <caret line="134" column="34" selection-start-line="134" selection-start-column="34" selection-end-line="134" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 6/Presentation/FileHandling/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="9" column="47" lean-forward="true" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
         </state>
       </provider>
     </entry>

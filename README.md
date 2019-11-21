@@ -11,17 +11,21 @@ Prepared by:
 - How does a program run?
 - Variables, data types, boolean expressions, print function.
     
-**[Day 2: Strings and built-in data structures](./Day%202/Presentation/#/)**
-- Lists, tuples, sets, dictionaries
+**[Day 2: Variables & Type Casting, Operations](./Day%202/Presentation/#/)**
+- What is a variable?  Converting types and Mathematical operations
     
-**[Day 3: Conditional and multiple executions](./Day%203/Presentation/#/)**
-- Comparison operators
-- Conditional blocks : else, if
-- Running code in loops: for, while; continue, break; range() function
+**[Day 3: List, Tuple, Slicing](./Day%203/Presentation/#/)**
+- Simple lists and collections
+- Manipulating data collections
 
-**[Day 4-5: Collecting tasks into functions](./Day%204/Presentation/#/)**
-- Functions
-- Local versus global variables
+**[Day 4: Dictionaries and other data structures](./Day%243/Presentation/#/)**
+- Set, Dictionary, Membership
+- Unique collections
+- lookup into dictionaries by key
+
+**[Day 5: If Else and Loops](./Day%205/Presentation/#/)**
+- Loops - for and foreach
+- If and else again...
 
 **[Day 6: Test Driven Development](./Presentation/#/)** 
 - PyUnit and unit testing
