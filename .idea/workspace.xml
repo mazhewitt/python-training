@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36564d46-57f5-43ec-b673-74a91bd33973" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Preso" beforeDir="false" afterPath="$PROJECT_DIR$/Preso" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Preso/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Preso/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Preso/Presentation1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Preso/Presentation1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Preso/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Preso/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Preso/reveal/gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/Preso/reveal/gruntfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,11 +53,23 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Preso/Presentation1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="46" column="52" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
+            <state relative-caret-position="615">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="578">
+                <caret line="34" column="64" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -71,15 +79,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="527">
               <caret line="31" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 7/Presentation/IntroductionToMachineLearning/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -106,7 +105,7 @@
         <entry file="file://$PROJECT_DIR$/Day 1/Presentation/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="105" column="41" lean-forward="true" selection-start-line="105" selection-start-column="41" selection-end-line="105" selection-end-column="41" />
+              <caret line="105" column="41" selection-start-line="105" selection-start-column="41" selection-end-line="105" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -135,7 +134,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Preso" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -162,7 +161,6 @@
         <option value="$PROJECT_DIR$/Day 2/Presentation/slide9.md" />
         <option value="$PROJECT_DIR$/Day 2/Presentation/slide1.md" />
         <option value="$PROJECT_DIR$/Day 2/Presentation/slide4.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Day 1/Presentation/index.html" />
         <option value="$PROJECT_DIR$/Day 2/Presentation/index.html" />
         <option value="$PROJECT_DIR$/Day 6/Presentation/FileHandling/index.html" />
@@ -174,6 +172,7 @@
         <option value="$PROJECT_DIR$/Day 4/Presentation/index.html" />
         <option value="$PROJECT_DIR$/Day 3/Presentation/index.html" />
         <option value="$PROJECT_DIR$/Preso/Presentation1/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -196,17 +195,6 @@
             <path>
               <item name="CodeRed-python-course" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodeRed-python-course" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeRed-python-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeRed-python-course" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeRed-python-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeRed-python-course" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Presentation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CodeRed-python-course" type="b2602c69:ProjectViewProjectNode" />
@@ -281,7 +269,7 @@
       <workItem from="1573636580011" duration="854000" />
       <workItem from="1573641421234" duration="1192000" />
       <workItem from="1573825242293" duration="120000" />
-      <workItem from="1574340103102" duration="762000" />
+      <workItem from="1574340103102" duration="1626000" />
     </task>
     <task id="LOCAL-00001" summary="Added curriculum">
       <created>1568386796531</created>
@@ -294,7 +282,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30163000" />
+    <option name="totallyTimeSpent" value="31027000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -537,14 +525,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 2/Presentation/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -597,7 +577,7 @@
     <entry file="file://$PROJECT_DIR$/Day 1/Presentation/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="105" column="41" lean-forward="true" selection-start-line="105" selection-start-column="41" selection-end-line="105" selection-end-column="41" />
+          <caret line="105" column="41" selection-start-line="105" selection-start-column="41" selection-end-line="105" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -638,8 +618,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Preso/Presentation1/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="46" column="52" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
+        <state relative-caret-position="615">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="578">
+            <caret line="34" column="64" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
