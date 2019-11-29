@@ -27,14 +27,15 @@ Prepared by:
 - Loops - for and foreach
 - If and else again...
 
-**[Day 6: Test Driven Development](./Presentation/#/)** 
+**Day 6: [Functions](./Day%206/Presentation/Functions/#/) and [Files](./Day%206/Presentation/FileHandling/#/)**
+- What is a function
+- Parameters and return values
+- Reading a writing files
+
+**[Day 7: Test Driven Development](./Presentation/#/)** 
 - PyUnit and unit testing
 - How and Why - writing tests first
 
-**[Day 7: Working with files](./Day%206/Presentation/#/)**
-- What is a filesystem? 
-- Directories, folders, absolute and relative paths
-- Reading and writing files  
 
 **[Day 8: Intro to data analytics modules in Jupyter Notebook](./Day%209/Presentation/#/)**
 - Introduction to Jupyter Notebooks
