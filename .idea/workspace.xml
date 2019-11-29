@@ -128,16 +128,9 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>https://github.ldn.swissbank.com/pages/hewitma/</find>
-      <find>hewitma</find>
-      <find>classification</find>
-      <find>https://github.ldn.swissbank.com/pages/hewitma</find>
       <find>../../Preso</find>
     </findStrings>
     <replaceStrings>
-      <replace>../../</replace>
-      <replace>mazhewitt</replace>
-      <replace>../..</replace>
       <replace>../../../Preso</replace>
     </replaceStrings>
   </component>
@@ -318,13 +311,6 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\UBS\Dev\Projects\CodeRed-python-course\Day 5\Presentation" />
-      <recent name="C:\UBS\Dev\Projects\CodeRed-python-course\Day 1\Presentation" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\UBS\Dev\Projects\CodeRed-python-course\Day 2\Presentation" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
