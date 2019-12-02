@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36564d46-57f5-43ec-b673-74a91bd33973" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 6/sample.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeRed-python-course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeRed-python-course.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 6/week-6-homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 6/week-6-homework.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 6/week3_ex3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 6/week3_ex4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Preso/Presentation1/slide3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Preso/Presentation1/slide3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -125,7 +121,7 @@
       <workItem from="1573641421234" duration="1192000" />
       <workItem from="1573825242293" duration="120000" />
       <workItem from="1574340103102" duration="3726000" />
-      <workItem from="1575033848615" duration="3173000" />
+      <workItem from="1575033848615" duration="5534000" />
     </task>
     <task id="LOCAL-00001" summary="Added curriculum">
       <created>1568386796531</created>
@@ -148,7 +144,28 @@
       <option name="project" value="LOCAL" />
       <updated>1575036956575</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added the week 6 homework">
+      <created>1575037241957</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575037241957</updated>
+    </task>
+    <task id="LOCAL-00005" summary="cleanup">
+      <created>1575275158692</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575275158692</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fix Day 4">
+      <created>1575279467187</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575279467187</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,7 +189,9 @@
     <MESSAGE value="Added curriculum" />
     <MESSAGE value="Added link to files and functions - moved TDD to week 7" />
     <MESSAGE value="Added the week 6 homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the week 6 homework" />
+    <MESSAGE value="cleanup" />
+    <MESSAGE value="Fix Day 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix Day 4" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_training$week_6_homework.coverage" NAME="week-6-homework Coverage Results" MODIFIED="1575036910536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 6" />

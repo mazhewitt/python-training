@@ -18,7 +18,7 @@ Prepared by:
 - Simple lists and collections
 - Manipulating data collections
 
-**[Day 4: Dictionaries and other data structures](./Day%24/Presentation/#/)**
+**[Day 4: Dictionaries and other data structures](./Day%204/Presentation/#/)**
 - Set, Dictionary, Membership
 - Unique collections
 - lookup into dictionaries by key

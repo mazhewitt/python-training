@@ -14,5 +14,5 @@ def decrypt(character):
 
 # you will need to: open the file using open() read the whole file into a single string variable using read(), loop
 # through the characters in the string variable calling the decrypt function for each character - append a result
-# character by character print out the result 
+# character by character print out the result
 
